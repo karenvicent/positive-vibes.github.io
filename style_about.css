@@ -1,0 +1,82 @@
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  
+  ol {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  
+  a.btn-primary {
+    background-color: #bb7fb8;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  a.btn-primary:hover {
+    background-color: #a86da4;
+  }
+  
+  /* Estilos para el formulario de login en el modal */
+  .modal-body form {
+    text-align: left;
+  }
+  
+  .form-input {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(213, 212, 212);
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  .modal-footer button[type="submit"] {
+    background-color: #bb7fb8;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .modal-footer button[type="submit"]:hover {
+    background-color: #a86da4;
+  }
+  

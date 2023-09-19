@@ -1,0 +1,182 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: #f0f0f0;
+    padding-bottom: 50px;
+}
+
+img.logo {
+    width: 130px; 
+    margin-bottom: 10px; 
+  }
+.central{
+background-color: #d6abd4;
+  background-repeat: no-repeat; 
+  width: 100%; 
+  height: 250px; 
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
+.principal_text{
+    font-family: 'Dancing Script', cursive; 
+    margin: 0;
+}
+
+.boton-registro{
+    background-color: #bb7fb8;
+    color: #fff;
+    border: none;
+    padding: 20px;
+    
+    font-size: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+.boton-login{
+    background-color: #7db3df;
+    color: #fff;
+    border: none;
+    padding: 20px;
+    font-size: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.form-input {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(213, 212, 212);
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #b39fb2;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #cf75d7;
+}
+a {
+    text-decoration: none;
+}
+
+
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  
+  ol {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  
+  a.btn-primary {
+    background-color: #bb7fb8;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  a.btn-primary:hover {
+    background-color: #a86da4;
+  }
+  
+  
+  .modal-body form {
+    text-align: left;
+  }
+  
+  .form-input {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(213, 212, 212);
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  .modal-footer button[type="submit"] {
+    background-color: #bb7fb8;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .modal-footer button[type="submit"]:hover {
+    background-color: #a86da4;
+  }
+
+  .add-button {
+    background-color: #b39fb2;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
